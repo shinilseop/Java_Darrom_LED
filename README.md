@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/76181126/119915023-89a49480-bf9c-11eb-9bf2-78728b8af842.png)
 
+* Control Packet
+* Filename is daroom_control.pptx.
+* PPT file has control way in pcom.
 
 
 * **4. Java Serial Port Driver**
@@ -25,5 +28,6 @@
 * RxTx (This Project use this driver.)
 
 
-* **Teris in LED**
+
+* **5. Teris in LED**
 * 
