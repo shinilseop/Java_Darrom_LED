@@ -8,7 +8,7 @@
 
 
 
-* **2. Connect (Serial Port)**
+**2. Connect (Serial Port)**
 
 ![image](https://user-images.githubusercontent.com/76181126/119914984-77c2f180-bf9c-11eb-901a-4229df1aeb03.png) ![image](https://user-images.githubusercontent.com/76181126/119914996-7abde200-bf9c-11eb-876f-2331300c18d8.png) 
 
